@@ -78,7 +78,7 @@
 /* GenericHeading */ .chroma .gh { color: #f5a97f; font-weight: bold }
 /* GenericInserted */ .chroma .gi { color: #a6da95; background-color: #363a4f }
 /* GenericOutput */ .chroma .go {  }
-/* GenericPrompt */ .chroma .gp {  }
+/* GenericPrompt */ .chroma .gp { color: #aa5500 }
 /* GenericStrong */ .chroma .gs { font-weight: bold }
 /* GenericSubheading */ .chroma .gu { color: #f5a97f; font-weight: bold }
 /* GenericTraceback */ .chroma .gt { color: #ed8796 }
